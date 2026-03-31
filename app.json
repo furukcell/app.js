@@ -4,13 +4,16 @@
     "slug": "besi-dana-takip",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.faruk.besidana",
-      "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
-      }
-    }
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
   }
 }
