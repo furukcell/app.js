@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Besi Dana",
+    "slug": "besi-dana-takip",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "extra": {
+      "eas": {
+        "projectId": "84cdb8d2-a205-46f0-b491-2c894bcc3858"
+      }
+    },
+    "android": {
+      "package": "com.faruk.besidana",
+      "versionCode": 1
+    }
+  }
+}
