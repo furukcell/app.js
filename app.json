@@ -5,15 +5,14 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "extra": {
+      "eas": {
+        "projectId": "61a5b827-0248-436f-b250-9d413645228c"
+      }
+    },
     "android": {
       "package": "com.faruk.besidana",
       "versionCode": 1
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    }
   }
 }
